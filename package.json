@@ -19,7 +19,7 @@
   "dependencies": {
     "async": "^1.4.2",
     "gm": "^1.18.1",
-    "gulp-util": "^3.0.6",
+    "vinyl": "^2.2.0",
     "lodash": "^4.17.14",
     "minimatch": "^3.0.4",
     "rename": "^1.0.3",
